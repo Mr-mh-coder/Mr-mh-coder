@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad Hossein Heidari</h1>
-<h3 align="center">A passionateend computer Eng student and web developer</h3>
-<br/>
+<h1 align="left">Hi 👋, I'm Mohammad Hossein Heidari</h1>
+<h3 align="left">A passionated computer Eng student and web developer</h3>
 <br/>
 <p align="left"> <a href="https://twitter.com/@mohi_programmer" target="blank"><img src="https://img.shields.io/twitter/follow/mohi_programmer?logo=twitter&style=for-the-badge" alt="@mohi_programmer" /></a> </p>
 
