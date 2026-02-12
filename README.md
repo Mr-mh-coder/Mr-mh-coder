@@ -3,7 +3,7 @@
 <br/>
 <p align="left"> <a href="https://twitter.com/@mohi_programmer" target="blank"><img src="https://img.shields.io/twitter/follow/mohi_programmer?logo=twitter&style=for-the-badge" alt="@mohi_programmer" /></a> </p>
 
-- 🌱 I’m currently learning Javascript ⚡
+- 🌱 I’m currently learning ⚡
 
 - 💬 Ask me about web development 
 
