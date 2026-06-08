@@ -26,7 +26,8 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactJs.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/react.svg" />
+
 </br>
 
 #
