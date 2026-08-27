@@ -31,7 +31,8 @@
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/git.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/pandas.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/numpy.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/numpy.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://gist.github.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f#file-sql-server-icon-svg" />
 
 </br>
 
