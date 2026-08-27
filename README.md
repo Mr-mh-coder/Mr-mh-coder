@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ⚡
 
-- 💬 Ask me about web development & AI
+- 💬 Ask me about web development & Data & AI
 
 - 📫 How to reach me **mhosseinheidarii@gmail.com**
 
