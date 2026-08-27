@@ -24,15 +24,16 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/react.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/postgresql.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/git.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/pandas.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/numpy.svg" />
-<img align="left" alt="Tailwind" width="20px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/react.svg" />
+<img align="left" alt="Postgre" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/postgresql.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/git.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/pandas.svg" />
+<img align="left" alt="numpy" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/numpy.svg" />
+<img align="left" alt="PowerBI" width="20px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />
+<img align="left" alt="SQL server" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg" />
 
 
 </br>
