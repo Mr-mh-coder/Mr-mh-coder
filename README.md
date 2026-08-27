@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohammad Hossein Heidari</h1>
-<h3 align="left">A passionated AI and web developer</h3>
+<h3 align="left">Enthusiasm for Data & AI and web</h3>
 <br/>
 <p align="left"> <a href="https://twitter.com/@mohi_programmer" target="blank"><img src="https://img.shields.io/twitter/follow/mohi_programmer?logo=twitter&style=for-the-badge" alt="@mohi_programmer" /></a> </p>
 
@@ -27,6 +27,11 @@
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/react.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/postgresql.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/git.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/pandas.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/numpy.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/numpy.svg" />
 
 </br>
 
