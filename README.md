@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mohi_programmer" target="blank"><img width="30" height="30" align="center" src="https://img.icons8.com/ios/50/twitterx--v2.png" alt="twitterx--v2"/></a>
+<a href="https://twitter.com/@mohi_programmer" target="blank"><img width="50height="50" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.linkedin.com/in/mohammad-hossein-h-3ba07a20a" target="blank"><img width="50" height="50" align="center" src="https://img.icons8.com/neon/96/twitterx.png" alt="twitterx"/></a>
 </p>
 
